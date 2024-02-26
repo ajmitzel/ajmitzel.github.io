@@ -1,0 +1,47 @@
+body {
+    max-width: 900px;
+    margin: 0 auto;
+    color: #323232;
+}
+
+footer {
+    margin: 191px 0px 0px 0px;
+    text-align: center;
+    font-size: .75em;
+}
+
+h2 {
+    font-size: 2em;
+    font-weight: bold;
+    margin-bottom: 12px;
+}
+
+.portrait {
+    width: 400px;
+    margin-left: 100px;
+}
+
+.main-header {
+    display: flex;
+    margin: 100px 0px;
+}
+
+.navigation-items {
+    display: flex;
+    list-style-type: none;
+    margin-left: auto;
+}
+
+.navigation-item {
+    margin: 8px;
+}
+
+nav {
+    display: flex;
+    align-items: center;
+}
+
+a {
+    text-decoration: none;
+    color: #323232;
+}
